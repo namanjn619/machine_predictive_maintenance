@@ -10,6 +10,7 @@ def app():
     st.markdown("""
         <h1>Machine Predictive Maintenance</h1>
     """, unsafe_allow_html=True)
+    st.write("Github Repository: https://github.com/namanjn619/machine_predictive_maintenance.git")
     st.subheader("Introduction")
     st.write("Welcome, to the Machine Predictive Maintenance project, an innovative Python-based classification initiative designed to predict machine failures and identify the specific type of failure. In an industrial setting, timely and accurate prediction of machine failures is crucial for maintaining operational efficiency and reducing downtime. This project leverages advanced machine learning techniques to achieve this goal, providing valuable insights and actionable predictions.")
     st.write("he Machine Predictive Maintenance project not only showcases the power of machine learning in predictive maintenance but also emphasizes the importance of data visualization and real-time analytics. By predicting machine failures and identifying their causes, this project aims to enhance operational efficiency, reduce unexpected downtime, and support proactive maintenance strategies.")

@@ -34,13 +34,41 @@ In my latest project, "Machine Predictive Maintenance," I have utilized machine 
   
 ## Pages and Screenshots
 ### Home Page
+In this project, we aim to predict whether a machine is in a state of failure and, if so, identify the specific type of failure. The types of failures considered are:
+- Heat Dissipation Failure
+- Power Failure
+- Overstrain Failure
+- Tool Wear Failure
+
+To accomplish this, we have implemented and compared the performance of four machine learning algorithms:
+- Logistic Regression
+- Support Vector Machine (SVM)
+- Random Forest
+- Decision Tree
+- 
 ![Home](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(14).png)
+
+
 ### Dataset Used
+The dataset contains 9,973 entries with 9 columns, each representing various attributes related to machine operations and failure status.
+Columns and Data Types
+- Type (object): Indicates the type of machine or operation.
+- Air temperature [C] (float64): The ambient air temperature in degrees Celsius.
+- Process temperature [C] (float64): The temperature of the process in degrees Celsius.
+- Rotational speed [rpm] (int64):The rotational speed of the machine in revolutions per minute.
+- Torque [Nm] (float64):The torque applied by the machine in Newton-meters.
+- Tool wear [min] (int64): The tool wear time in minutes.
+- Target (int64): A binary indicator (0 or 1) of whether the machine is in a failure state.
+- Failure Type (object):Specifies the type of failure if the machine is in a failure state (e.g., Heat Dissipation Failure, Power Failure, etc.).
+- Temperature Difference [C] (float64):The difference in temperature between the process and the air.
 ![Dataset](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(15).png)
 
 
 ### Machine Learning Models
+
 ![Machine Learning Models](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(16).png)
+
+
 ### Results Comparision
 ![Result Comparision](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(17).png)
 ### Machine Predictive Classification

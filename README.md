@@ -94,4 +94,5 @@ Insights from the Visualization:
 The Machine Predictive Maintenance project aims to predict machine failures and identify the type of failure, enhancing operational efficiency and reducing downtime. This project utilizes various machine learning algorithms including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine to achieve high accuracy in predictions.
 ![About](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(22).png)
 
-  
+
+# Thank you For Visiting!!

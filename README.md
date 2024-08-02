@@ -34,7 +34,7 @@ In my latest project, "Machine Predictive Maintenance," I have utilized machine 
   
 ## Pages and Screenshots
 ### Home Page
-![Home]([https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/home.png](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(14).png))
+![Home](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(14).png)
 ### List of All Questions
 ![Question List](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20list.png)
 ### Registration Page

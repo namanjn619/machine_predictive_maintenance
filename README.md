@@ -1,12 +1,11 @@
 
-# Open Source DSA Bootcamp
+# Machine Predictive Maintenance
 
-A Complete CRUD web application which has a touch of open source to it, here any user
-can create its own Library for DSA Questions along with that it comes with Pre-submitted 100 Important Questions for
-DSA from various topics. Any user can submit his answers by either commenting on a Question or by uploading it on
-GitHub. It has a complete working Authorization and Authentication system. USP of this project is you can even create a
-video for the solution of the question and can link it with the Listing of the Question. Used HTML, CSS, Bootstrap for
-front-end and Express-JS, Node-JS, MongoDB, Passport and EJS for back-end
+Welcome, to the Machine Predictive Maintenance project, an innovative Python-based classification initiative designed to predict machine failures and identify the specific type of failure. In an industrial setting, timely and accurate prediction of machine failures is crucial for maintaining operational efficiency and reducing downtime. This project leverages advanced machine learning techniques to achieve this goal, providing valuable insights and actionable predictions.
+
+he Machine Predictive Maintenance project not only showcases the power of machine learning in predictive maintenance but also emphasizes the importance of data visualization and real-time analytics. By predicting machine failures and identifying their causes, this project aims to enhance operational efficiency, reduce unexpected downtime, and support proactive maintenance strategies.
+
+Explore the project to see the detailed analysis, model comparisons, and real-time prediction capabilities. Your journey through this project will demonstrate the practical application of machine learning in industrial maintenance and the significant impact of data-driven decision-making.
 
 ## Authors
 
@@ -14,29 +13,28 @@ front-end and Express-JS, Node-JS, MongoDB, Passport and EJS for back-end
 
   
 ## 🚀 About Me
-Computer Science Undergraduate with excellent problem solving skills and ability to work in a Team. Curious about learning new skills and enjoy teaching coding.
+I am Naman Jain, currently pursuing my M.Tech in Data Science at Delhi Technological University, New Delhi. With a solid foundation in Computer Engineering from Arya College of Engineering and IT, Jaipur, I have developed a keen interest in machine learning, deep learning, and data analytics.
 
-I have a Hands on Experience with Data Structure and Algorithms and applied it using C++.
+My journey in the tech world includes practical experience as a Software Engineer at APBundle Technologies, where I honed my skills in ReactJS, NodeJS, and Redux, and as a Software Engineer Intern at WisdmLabs, focusing on PHP, WordPress, and MySQL. My technical expertise spans across various programming languages like Python, C++, and JavaScript, and I am proficient in using tools such as Docker, Git, and Power BI.
 
-I am currently woriking on Web Development, where I am Following MERN Stack for Complete Development.
+In my latest project, "Machine Predictive Maintenance," I have utilized machine learning algorithms to predict machine failures and identify specific failure types. This project not only highlights my ability to develop robust machine learning models but also showcases my proficiency in data visualization and analytics using Streamlit and Power BI.
 
   
 ## Features
 
-- A Complete CRUD Web Application, where a user can build up his own Library of Important DSA Questions.
-- Any user can Register and Login to Create his Question which can visible to anyone.
-- Any user can Submit their Answers by Commenting on the Question and can also give ratings.
-- Web Application comes with 100 Impostant DSA Questions from Various Topics
+- Model Comparison: We have evaluated and compared the results of the aforementioned machine learning models to determine the most effective one for predicting machine failures. This comparison is based on key performance metrics such as accuracy, precision, recall, and F1-score.
+- Live Prediction Page: Utilizing the best-performing model, we have created a live prediction page. This feature allows users to input new data and receive real-time predictions about the machine's maintenance status, enhancing decision-making and proactive maintenance efforts.
+- Exploratory Data Analysis (EDA) and Visualizations: Comprehensive EDA has been conducted to uncover patterns and insights from the data. Various graphs and visualizations accompany the EDA, providing a deeper understanding of the factors influencing machine failures.
+- Power BI Dashboard: For advanced data analytics and interactive exploration, we have developed a Power BI dashboard. This dashboard offers an intuitive interface to analyze trends, compare model performances, and monitor machine health metrics dynamically.
 
 
 ## Stack
-- Front End : HTML, CSS, BootStrap, JavaScript
-- Back End : ExpressJS, NodeJS, EJS, Passport
-- Database : MongoDB
+- Front End : Streamlit, Python, HTML
+- Back End : Python, Machine Learning Alogrithms, EDA, Data Vizualization
   
 ## Pages and Screenshots
 ### Home Page
-![Home](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/home.png)
+![Home]([https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/home.png](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(14).png))
 ### List of All Questions
 ![Question List](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20list.png)
 ### Registration Page
@@ -57,16 +55,5 @@ I am currently woriking on Web Development, where I am Following MERN Stack for 
 ![Question Creation](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20creation.png)
 ### About Page
 ![About](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/about.png)
-
-  
-## FAQ
-
-#### Can I post my Questions on this Web App?
-
-Yes, you can post as many as Questions you want and can create your Own library of Questions.
-
-#### Can I post answers to other user's Questions?
-
-Yes, you can post your correct answers to any users Question, by either commenting on it or by uploading that Question on Github and uplading it's video on Youtube. 
 
   

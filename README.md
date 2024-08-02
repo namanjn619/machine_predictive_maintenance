@@ -29,8 +29,10 @@ In my latest project, "Machine Predictive Maintenance," I have utilized machine 
 
 
 ## Stack
-- Front End : Streamlit, Python, HTML
-- Back End : Python, Machine Learning Alogrithms, EDA, Data Vizualization
+- Programming Languages: Python
+- Libraries: Pandas, NumPy, Scikit-learn, Streamlit
+- Visualization Tools: Matplotlib, Seaborn, Power BI
+- Machine Learning Algorithms: Logistic Regression, Decision Tree, Random Forest, Support Vector Machine
   
 ## Pages and Screenshots
 ### Home Page
@@ -72,14 +74,24 @@ Columns and Data Types
 ### Results Comparision
 ![Result Comparision](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(17).png)
 ### Machine Predictive Classification
+Predictive Maintenance project allows users to input various parameters to predict the maintenance status of a machine. The fields include the operational load type of the machine, which can be categorized as Low (L), Medium (M), or High (H). Users can specify the Rotational Speed of the machine's components, ranging from 1000 to 3000 rpm, and the Torque, which is the force causing rotation, with values between 0 and 100 Nm.
+
+The Air Temperature surrounding the machine, which ranges from 0 to 100 °C, can also be input, as well as the Process Temperature, the temperature at which the machine’s process operates, also within the 0 to 100 °C range. The Tool Wear parameter measures the amount of wear the tool experiences over time, with a range from 0 to 300 minutes. Additionally, the Temperature Difference field captures the difference between the process temperature and the air temperature, with values from 0 to 20 °C.
 ![Machine Predictive Classification](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(18).png)
 ### Prediction Page
+
 ![Prediction Page](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(19).png)
 ### Data Visualization Page
+Data visualization plays a crucial role in the Machine Predictive Maintenance project, transforming complex data into intuitive graphical representations that facilitate better understanding and decision-making. By leveraging various visualization techniques, the project presents key insights into the machine's operational parameters and their impact on maintenance needs. For instance, scatter plots, histograms, and line graphs are used to illustrate the relationships and distributions of features such as rotational speed, torque, air temperature, process temperature, tool wear, and temperature difference. These visualizations help in identifying patterns and anomalies that may indicate potential failures.
 ![Data Visualization Page](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(20).png)
 ### Viualization
+Insights from the Visualization:
+- Rotational Speed and Torque are highly co-related
+- Air and Process Temprature are also Highly Co-related.
+- We can see the failures are majory due to high or low values of variables.
 ![Viualization](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(21).png)
 ### About Page
+The Machine Predictive Maintenance project aims to predict machine failures and identify the type of failure, enhancing operational efficiency and reducing downtime. This project utilizes various machine learning algorithms including Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine to achieve high accuracy in predictions.
 ![About](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(22).png)
 
   

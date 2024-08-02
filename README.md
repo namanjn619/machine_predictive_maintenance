@@ -36,24 +36,22 @@ In my latest project, "Machine Predictive Maintenance," I have utilized machine 
 ### Home Page
 ![Home](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(14).png)
 ### List of All Questions
-![Question List](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20list.png)
+![Machine Prediction Page](hthttps://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(11).png)
 ### Registration Page
-![Register User](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/register%20user.png)
+![Dataset](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(15).png)
 ### Login Page
-![Login User](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/login%20page.png)
+![Machine Learning Models](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(16).png)
 ### Add a Question Page
-![Create Question](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/adding%20solution.png)
+![Result Comparision](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(17).png)
 ### Question Description
-![Question Description](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20description.png)
+![Machine Predictive Classification](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(18).png)
 ### Edit Question Page
-![Edit Question](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/edit%20question.png)
+![Prediction Page](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(19).png)
 ### Solution Adding
-![Solution](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/adding%20solution.png)
+![Data Visualization Page](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(20).png)
 ### Navigation Bar
-![Navigation Bar](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/navigation.png)
-### Question Creation Process
-![Question Creation](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20creation.png)
+![Viualization](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(21).png)
 ### About Page
-![About](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/about.png)
+![About](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(22).png)
 
   

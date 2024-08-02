@@ -35,21 +35,21 @@ In my latest project, "Machine Predictive Maintenance," I have utilized machine 
 ## Pages and Screenshots
 ### Home Page
 ![Home](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(14).png)
-### List of All Questions
-![Machine Prediction Page](hthttps://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(11).png)
-### Registration Page
+### Dataset Used
 ![Dataset](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(15).png)
-### Login Page
+
+
+### Machine Learning Models
 ![Machine Learning Models](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(16).png)
-### Add a Question Page
+### Results Comparision
 ![Result Comparision](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(17).png)
-### Question Description
+### Machine Predictive Classification
 ![Machine Predictive Classification](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(18).png)
-### Edit Question Page
+### Prediction Page
 ![Prediction Page](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(19).png)
-### Solution Adding
+### Data Visualization Page
 ![Data Visualization Page](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(20).png)
-### Navigation Bar
+### Viualization
 ![Viualization](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(21).png)
 ### About Page
 ![About](https://github.com/namanjn619/machine_predictive_maintenance/blob/master/Images/Screenshot%20(22).png)
